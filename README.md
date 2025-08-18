@@ -38,11 +38,6 @@
 </div>
 
 
-### Hora do Lazer
-[![PlayStation](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white)]
-[![STEAM](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)]
-
-
 
 
 
